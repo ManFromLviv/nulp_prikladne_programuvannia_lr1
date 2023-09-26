@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lr1","c":"FibonachiAndCubes","l":"FibonachiAndCubes(int)","u":"%3Cinit%3E(int)"},{"p":"lr1","c":"LR1","l":"LR1()","u":"%3Cinit%3E()"},{"p":"lr1","c":"LR1","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"lr1","c":"FibonachiAndCubes","l":"setFibonachi(int)"},{"p":"lr1","c":"FibonachiAndCubes","l":"toString()"}];updateSearchResults();

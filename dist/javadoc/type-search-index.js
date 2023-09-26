@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lr1","l":"FibonachiAndCubes"},{"p":"lr1","l":"LR1"}];updateSearchResults();
